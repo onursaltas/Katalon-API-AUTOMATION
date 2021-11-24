@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DeleteEmployeeCustomField_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1eb11d6-0725-4737-8e89-8fe875d956d8</testCaseGuid>
+</TestCaseEntity>

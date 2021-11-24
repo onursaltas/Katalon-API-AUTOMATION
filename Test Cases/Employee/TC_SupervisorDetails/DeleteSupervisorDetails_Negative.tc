@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DeleteSupervisorDetails_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0a9040c6-1d71-483f-9181-da7f50b6303f</testCaseGuid>
+</TestCaseEntity>

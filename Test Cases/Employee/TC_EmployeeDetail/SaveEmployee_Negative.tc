@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SaveEmployee_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2dafdd2-35b3-4ad9-a085-3180ccf5035f</testCaseGuid>
+</TestCaseEntity>
