@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DBTestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3d8ac5e3-498c-494f-9e2a-fb4db1662c96</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('excel').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>befac629-fe43-46c4-933f-b497f60b7158</id>
+      <masked>false</masked>
+      <name>Group_Id</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('excel').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>19b9f683-1d1a-497f-aaa7-033352a12dcf</id>
+      <masked>false</masked>
+      <name>Group_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('excel').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>d966036d-756a-4c82-9b4f-73289455a22d</id>
+      <masked>false</masked>
+      <name>Group_Desc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('excel').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>d170d492-262d-44de-b8f3-4bda4156574a</id>
+      <masked>false</masked>
+      <name>Precedence</name>
+   </variable>
+</TestCaseEntity>
